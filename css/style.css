@@ -994,3 +994,8 @@ footer{
 .footer-divider{
     width: 65%;
 }
+
+.lastest-articles-right-container{
+    position: sticky;
+    top: 0;
+}
